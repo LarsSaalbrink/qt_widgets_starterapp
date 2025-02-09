@@ -1,3 +1,7 @@
+# About
+
+Convienient way to get started with dockerized Qt development.
+
 # Build
 
 docker build -t qt-dev .
